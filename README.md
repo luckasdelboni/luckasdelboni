@@ -3,7 +3,7 @@
 <div class="me-Read" style="font-size:17px; padding:15px font-family:"> 
     <h1> <b>👋 Oi! eu sou o Luckas ! </b></h1>
     <a href="https://www.linkedin.com/in/luckas-delboni" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-               badge&logo=linkedin&logoColor=white" target="_blank" width="100"></a><br><br>
-   <img src="https://github-readme-stats.vercel.app/api?username=luckasdelboni&show_icons=true&theme=transparent" target="_blank"><br> 
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luckasdelboni&show_icons=true&theme=transparent" target="_blank"><br> 
 </div>
   
 <div class="me-tecnologies">
