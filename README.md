@@ -21,7 +21,7 @@
    
 <div class="me-about">
     <h1><b>😎 Sobre mim</b></h1>
-    <p>Comecei no mundo dos códigos no final de 2021, atualmente sou Estudante de Ciências da Computação, atuo como desenvolvedor Fluig na CRM Services e sou um apaixonado por programação🖤💻!<p>
+    <p>Comecei no mundo dos códigos no final de 2021, atualmente sou Estudante de Ciências da Computação, atuo como desenvolvedor Fluig e sou um apaixonado por programação🖤💻!<p>
 </div>       
 
 
