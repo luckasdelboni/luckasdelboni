@@ -8,7 +8,7 @@
   <h2>Resumo Profissional</h2>
   <p>
       Sou desenvolvedor especializado na plataforma Fluig, com mais de dois anos de experiência no desenvolvimento de soluções para 
-      automação de processos, criação de widgets e integrações robustas. Atuo na implementação de BPMs e ECMs personalizados para 
+      automação de processos, criação de widgets e integrações robustas. Atuo na implementação de BPMs, ECMs e WCM personalizados para 
       otimizar fluxos empresariais e melhorar a eficiência operacional.
   </p>
   <p>
