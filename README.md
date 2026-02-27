@@ -8,7 +8,7 @@
         </div>
         
   <h2>Resumo Profissional</h2>
-  <p>Desenvolvedor Fluig com mais de dois anos de experiência na criação de soluções para automação de processos, integração de sistemas e desenvolvimento de widgets personalizados.</p>
+  <p>Desenvolvedor Fluig com mais de quatro anos de experiência na criação de soluções para automação de processos, integração de sistemas e desenvolvimento de widgets personalizados.</p>
   <p>Já atuei com <b>escritórios de advocacia, offshores, empresas de consórcio, supermercados, construtoras e empresas do ramo agro</b>, adquirindo expertise em diferentes segmentos.</p>
   
   <h2>Experiência Profissional</h2>
